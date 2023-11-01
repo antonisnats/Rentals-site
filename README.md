@@ -1,1 +1,1 @@
-# Rentals-site using HTML,CSS and Javascript.
+# Rentals-site using HTML,CSS and Javascript | AUEB Project 
